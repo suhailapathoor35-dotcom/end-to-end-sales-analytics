@@ -59,6 +59,11 @@ How to Open
 3. The cleaned sales data is embedded in the Power BI file, so no additional setup is needed.
    
 ![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/ae0a97fc86fce2e83444eb177676108408127646/dashboard.jpeg)
+![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/Untitled.png)
+![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/doghnut.png)
+![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/line.png)
+
+
 
 
 
