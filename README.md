@@ -56,9 +56,8 @@ How to Open
 2. Open the endtoendsaleperfomace.pbix file using Power BI Desktop 
 
 
-3. The cleaned sales data is embedded in the Power BI file, so no additional setup is needed.
-   
-![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/ae0a97fc86fce2e83444eb177676108408127646/dashboard.jpeg)
+3. The cleaned sales data is embedded in the Power BI file, so no additional setup is needed
+https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/c37222155b5a64e851a33fbf32fde45a1ea7440b/Screenshot_20251120_134246_Adobe%20Acrobat.jpg
 ![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/Untitled.png)
 ![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/doghnut.png)
 ![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/line.png)
