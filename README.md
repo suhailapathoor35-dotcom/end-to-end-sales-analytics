@@ -53,7 +53,7 @@ How to Open
 1. Clone or download this repository to your local machine.
 
 
-2. Open the endtoendsaleperfomace.pbix file using Power BI Desktop 
+2. Open the endtoendsaleperformance.pbit file using Power BI Desktop 
 
 
 3. The cleaned sales data is embedded in the Power BI file, so no additional setup is needed
