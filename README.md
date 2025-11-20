@@ -78,6 +78,7 @@ Visual Validation: Creating preliminary charts in Python helped me spot data iss
 Power BI Skills: I gained experience building an interactive dashboard in Power BI, learning how to use visuals, slicers, and KPIs effectively.
 Conclusion:
 By combining Python, cleaned CSV data, and an interactive Power BI dashboard, this project delivers meaningful insights into sales trends and customer behavior, supporting data-driven business planning.
+
 👩‍💻 Created By
 
 Suhaila Pathoor
