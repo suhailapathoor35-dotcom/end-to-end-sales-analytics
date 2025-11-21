@@ -1,62 +1,101 @@
-Sales Dashboard Project
 
-Summary
+📊 Sales Performance Dashboard – Power BI
 
-This project showcases a sales dashboard built with Power BI, using cleaned sales data from a CSV file.  The data (in sales.csv) was first cleaned and analyzed with Python, then visualized with Power BI.  The final dashboard displays key sales metrics, including total sales KPIs, sales by region and product, a monthly sales trend, and a list of the top 10 customers by sales.  It provides an interactive view of the businessâ€™s sales performance for easy insight and reporting.
+This project presents an end-to-end Sales Performance Analysis using Power BI.
+It provides clear insights into total sales, product performance, regional trends, customer contribution, and month-wise sales behavior.
 
-Tools Used
+The goal of this dashboard is to help stakeholders understand business performance, identify growth opportunities, and make data-driven decisions.
 
-Python (Pandas, Matplotlib): Data cleaning and initial charting.
+🧾 Project Overview
 
-Power BI Desktop: Final dashboard creation and interactive visuals.
+This dashboard analyzes a retail sales dataset containing information on sales amount, product categories, regions, orders, and customer purchases.
+The project includes:
 
-Sales CSV Dataset: Raw sales data (sales perfomance.csv) imported and cleaned.
+Data cleaning and transformation
 
-Full dashboard view showing total sales KPIs, breakdowns by region and product, and other charts.
+Data modeling
 
+Building interactive visuals
 
-Line chart displaying monthly sales trend, highlighting seasonal patterns.
+🛠️ Tools & Technologies Used
 
+Power BI (Dashboard creation & visualization)
 
-Table of the top 10 customers by total sales, ranking major clients.
+Power Query (Data cleaning & preparation)
 
-Key Features
+DAX (Measures & calculations)
 
-Total Sales KPIs: Summary cards for overall sales, profit, and other key metrics.
+Excel / CSV Dataset
+Designing an easy-to-understand and professional dashboard
+📂 Dataset Information
 
-Sales by Region & Product: Interactive charts (bar/column) showing how sales break down by region and by product category.
+The dataset includes the following fields:
 
-Monthly Sales Trend: A line chart visualizing sales over time to spot trends or seasonality.
+Order Date
 
-Top 10 Customers: Table listing the highest-value customers to focus on major revenue sources.
+Customer ID
 
-Interactive Dashboard: Filters and drill-downs allow users to explore data details (e.g., filter by year or region).
+Product Category
 
+Sales Amount
 
-Data Preparation Steps
+Quantity
 
-1. Load Data in Python: Read the sales_perfomance .csv file using Pandas.
-
-
-2. Clean and Transform: Removed duplicates, handled missing values, and formatted dates. Calculated any needed fields (e.g., total sale amount).
-
-
-3. Initial Analysis: Created basic charts with Matplotlib (for example, sales by product) to validate data and uncover insights.
-
-
-4. Export Clean Data: Saved the cleaned dataset "sales_cleaned" to a new CSV file for use in Power BI.
+Region
+Month Name
 
 
+The dataset was cleaned, transformed, and structured before visualization.
+🔍 Key Insights
 
-How to Open
+1️⃣ Overall Performance
 
-1. Clone or download this repository to your local machine.
+The company generated ₹4.43M sales from 300 orders.
+
+An average order contributes ₹14.75K.
 
 
-2. Open the endtoendsaleperformance.pbit file using Power BI Desktop 
+2️⃣ Regional Sales Trends
+
+West region shows the highest sales, crossing ₹1M.
+
+South region also performs strongly.
+
+North and East regions show lower performance, indicating potential markets for improvement.
+
+3️⃣ Product Category Insights
+
+Laptops are the top-selling product, generating ₹1,096,083 in revenue.
+
+Smartwatches and Mobiles also show strong contribution.
+
+Headphones and Tablets show lower sales, indicating weaker demand or limited marketing.
 
 
-3. The cleaned sales data is embedded in the Power BI file, so no additional setup is needed
+4️⃣ Top Customers
+
+Top 10 customers contributed ₹1.09M in total revenue.
+
+Customer ID 1061 is the top contributor with ₹224,890.
+
+5️⃣ Monthly Sales Trend
+
+Monthly sales remain steady around ₹0.4–₹0.5M.
+
+July shows the highest sales (₹0.51M).
+
+April and October show minor dips, indicating slight seasonality.
+🧠 Business Recommendations
+
+Focus marketing campaigns in North and East regions to increase sales.
+
+Promote low-performing products like Tablets & Headphones through discounts or combos.
+
+Strengthen retention strategies for high-value customers.
+
+Investigate causes of dips in April and October sales.
+
+
 ![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/c37222155b5a64e851a33fbf32fde45a1ea7440b/Screenshot_20251120_134246_Adobe%20Acrobat.jpg)
 ![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/Untitled.png)
 ![image alt](https://github.com/suhailapathoor35-dotcom/end-to-end-sales-analytics/blob/e6dfc454b450a020f7fe8239c7082d1e7107ce53/doghnut.png)
@@ -76,8 +115,11 @@ Data Cleaning: I learned the importance of preparing and cleaning raw data (usin
 Visual Validation: Creating preliminary charts in Python helped me spot data issues and understand trends early on.
 
 Power BI Skills: I gained experience building an interactive dashboard in Power BI, learning how to use visuals, slicers, and KPIs effectively.
-Conclusion:
-By combining Python, cleaned CSV data, and an interactive Power BI dashboard, this project delivers meaningful insights into sales trends and customer behavior, supporting data-driven business planning.
+🙌 Conclusion
+
+This project demonstrates key data analyst skills including data cleaning, modeling, visualization, and insight generation.
+The dashboard provides a complete picture of sales performance and can help decision-makers understand trends, product performance, and customer contribution.
+
 
 👩‍💻 Created By
 
