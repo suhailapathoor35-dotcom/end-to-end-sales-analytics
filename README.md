@@ -1,5 +1,4 @@
-
-     #     📊 Sales Performance Dashboard – Power BI
+#     📊 Sales Performance Dashboard – Power BI
 ##
 
 This project presents an end-to-end Sales Performance Analysis using Power BI.
