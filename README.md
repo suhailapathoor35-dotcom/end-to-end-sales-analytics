@@ -1,13 +1,13 @@
 #     📊 End-TO-End-Sales-Analytics
 ## Created & analyzed by SUHAILA,DATA ANALYST
-##Live POWER BI : endtoendsaleperformance.pbit
+## Live POWER BI : endtoendsaleperformance.pbit
 
 ##This project presents an end-to-end Sales Performance Analysis using Power BI.
 It provides clear insights into total sales, product performance, regional trends, customer contribution, and month-wise sales behavior.
 
 The goal of this dashboard is to help stakeholders understand business performance, identify growth opportunities, and make data-driven decisions.
 
-##🧾 Project Overview
+## 🧾 Project Overview
 
 This dashboard analyzes a retail sales dataset containing information on sales amount, product categories, regions, orders, and customer purchases.
 The project includes:
@@ -18,7 +18,7 @@ Data modeling
 
 Building interactive visuals
 
-##🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Power BI (Dashboard creation & visualization)
 
@@ -28,7 +28,7 @@ DAX (Measures & calculations)
 
 Excel / CSV Dataset
 Designing an easy-to-understand and professional dashboard
-##📂 Dataset Information
+## 📂 Dataset Information
 
 The dataset includes the following fields:
 
@@ -88,7 +88,7 @@ Monthly sales remain steady around ₹0.4–₹0.5M.
 July shows the highest sales (₹0.51M).
 
 April and October show minor dips, indicating slight seasonality.
-##🧠 Business Recommendations
+## 🧠 Business Recommendations
 
 Focus marketing campaigns in North and East regions to increase sales.
 
@@ -118,12 +118,12 @@ Data Cleaning: I learned the importance of preparing and cleaning raw data (usin
 Visual Validation: Creating preliminary charts in Python helped me spot data issues and understand trends early on.
 
 Power BI Skills: I gained experience building an interactive dashboard in Power BI, learning how to use visuals, slicers, and KPIs effectively.
-##🙌 Conclusion
+## 🙌 Conclusion
 
 This project demonstrates key data analyst skills including data cleaning, modeling, visualization, and insight generation.
 The dashboard provides a complete picture of sales performance and can help decision-makers understand trends, product performance, and customer contribution.
 
 
-##👩‍💻 Created By
+## 👩‍💻 Created By
 
 Suhaila Pathoor
