@@ -1,5 +1,6 @@
 
-📊 Sales Performance Dashboard – Power BI
+#📊 Sales Performance Dashboard – Power BI
+##
 
 This project presents an end-to-end Sales Performance Analysis using Power BI.
 It provides clear insights into total sales, product performance, regional trends, customer contribution, and month-wise sales behavior.
